@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.11+commit.d7f03943"
+		"version": "0.8.25+commit.b61c2a91"
 	},
 	"language": "Solidity",
 	"output": {
@@ -70,9 +70,9 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Demo.sol": "MyShop"
+			"MyShop.sol": "MyShop"
 		},
-		"evmVersion": "london",
+		"evmVersion": "cancun",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -84,12 +84,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Demo.sol": {
-			"keccak256": "0xed51193e37d8d965afe6f391d7b5b6867310df21bae34ca2fe1cd134b017088a",
+		"MyShop.sol": {
+			"keccak256": "0xac090cbd2d0984253d3dc4f2f30e115a2dd629f3d86f1b722ff1daf6aa1b28c7",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://8565eb92519ac7c3b69e20b5b38038d070ed87d0f9c481c239448fed8244dcf2",
-				"dweb:/ipfs/QmbefTijnAEfWVgng9x3hsVvZyicvwzEqJKUAvqutzUnKB"
+				"bzz-raw://3bec2e774ff5684709a404928c091ecbd2c33c212c4e774354444da5f352c88d",
+				"dweb:/ipfs/QmeuLPq6o3TuSV4tAonNJshXHF48d9FkCRB3m9Msekr4xA"
 			]
 		}
 	},
